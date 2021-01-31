@@ -7,5 +7,5 @@ Sam Portillo is currently working as an Associate Research Engineer in Hydrocarb
 ### Work
  Our group specializes in light hydrocarbon dehydrogenation; more recently focusing on propane dehydrogenation. I have been involved in numerous areas of work, ranging from pilot scale operations, experimental design, and process safety.
  
- ### Intention of Website
+### Intention of Website
  This blog is intended to be a repository of my projects, interests, and thoughts as I move through the next few years.
