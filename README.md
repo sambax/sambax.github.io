@@ -1,2 +1,3 @@
-# sambax.github.io
-Will be using this repository to create own html site. Will be used for storing projects, thoughts, etc.
+## Overview
+### sambax.github.io
+This repository acts as the structure behind my profile. The profile is meant to capture background, research, projects, and my professional contact information.
