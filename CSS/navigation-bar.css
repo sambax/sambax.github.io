@@ -3,6 +3,7 @@
 /*Ensures that the top of the navigation pane is in the upper-right
 of the Web-page.*/
 
+  font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -14,7 +15,7 @@ body {
 .nav-wrapper .nav-bar {
   /*Most important part of making the navigation pane:*/
   position: fixed;
-  width: 100px;
+  width: 150px;
   /*Span the entire height of the open Web-page*/
   height: 100%;
   background-color: #57bdff;
@@ -40,6 +41,6 @@ body {
 
 .main-content {
   padding-top: 20px;
-  padding-left: 120px;
+  padding-left: 170px;
   padding-right: 20px;
 }
