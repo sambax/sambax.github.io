@@ -1,4 +1,8 @@
 * {
+
+/*Ensures that the top of the navigation pane is in the upper-right
+of the Web-page.*/
+
   margin: 0;
   padding: 0;
 }
@@ -8,8 +12,10 @@ body {
 }
 
 .nav-wrapper .nav-bar {
+  /*Most important part of making the navigation pane:*/
   position: fixed;
   width: 100px;
+  /*Span the entire height of the open Web-page*/
   height: 100%;
   background-color: #57bdff;
   list-style: none;
@@ -22,6 +28,7 @@ body {
 }
 
 .nav-bar a, .nav-bar:visited {
+  /*Customization on appearance for the links for the navigation bar*/
   color: black;
   text-decoration: none;
 }
