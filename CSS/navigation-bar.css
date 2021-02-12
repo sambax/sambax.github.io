@@ -44,3 +44,16 @@ body {
   padding-left: 170px;
   padding-right: 20px;
 }
+
+.portrait {
+  max-width: 150px;
+  border-radius: 50%;
+}
+
+.main-content h2 {
+  padding-top: 20px;
+}
+
+.main-content p {
+  padding-top: 10px;
+}
