@@ -18,7 +18,7 @@ body {
   width: 150px;
   /*Span the entire height of the open Web-page*/
   height: 100%;
-  background-color: #57bdff;
+  background-color: black;
   list-style: none;
   text-align: center;
   padding-top: 10px;
@@ -30,7 +30,7 @@ body {
 
 .nav-bar a, .nav-bar:visited {
   /*Customization on appearance for the links for the navigation bar*/
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
